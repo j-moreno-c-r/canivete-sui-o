@@ -40,3 +40,4 @@ def foo(a, b ):
 
 if __name__ == "__main__":
     main()
+#versão em português do código de Henrique Bastos do welcome to the django.
